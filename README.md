@@ -1,3 +1,7 @@
+[![Ubuntu-build](https://github.com/micheltakken/mmft-droplet-simulator/actions/workflows/cmake_ubuntu.yml/badge.svg)](https://github.com/micheltakken/mmft-droplet-simulator/actions/workflows/cmake_ubuntu.yml)
+[![Windows-build](https://github.com/micheltakken/mmft-droplet-simulator/actions/workflows/cmake_windows.yml/badge.svg)](https://github.com/micheltakken/mmft-droplet-simulator/actions/workflows/cmake_windows.yml)
+[![MacOS-build](https://github.com/micheltakken/mmft-droplet-simulator/actions/workflows/cmake_macos.yml/badge.svg)](https://github.com/micheltakken/mmft-droplet-simulator/actions/workflows/cmake_macos.yml)
+
 # MMFT Droplet Simulator
 A Droplet Simulator for Microfluidic Biochips developed by the [Chair for Design Automation](https://www.cda.cit.tum.de/) at the [Technical University of Munich](https://www.tum.de/) as part of the Munich MicroFluidic Toolkit (MMFT).
 This simulator exploits the 1D analysis model, which is especially suited for simulating designs before even the first prototype is fabricated and for design space explorations. Furthermore, it allows to simulate droplets and their respective paths inside a Lab-on-a-Chip (LoC) with closed micro-channels.
