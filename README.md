@@ -1,4 +1,4 @@
-[![CMake](https://github.com/micheltakken/mmft-droplet-simulator/actions/workflows/cmake.yml/badge.svg)](https://github.com/micheltakken/mmft-droplet-simulator/actions/workflows/cmake.yml)
+
 
 # MMFT Droplet Simulator
 A Droplet Simulator for Microfluidic Biochips developed by the [Chair for Design Automation](https://www.cda.cit.tum.de/) at the [Technical University of Munich](https://www.tum.de/) as part of the Munich MicroFluidic Toolkit (MMFT).
